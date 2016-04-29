@@ -1,0 +1,27 @@
+var catOpen = document.
+    getElementById("catOpen");
+var catClosed = document.
+    getElementById ("catClosed");
+
+catOpen.addListener ("mousedown",
+    closeTheCatsEyes);
+catClosed.addListener ("mouseup", openTheCatsEyes);
+
+function closeTheCatsEyes(){
+    // make the catOpen display
+        disappear
+    catOpen.style.display =
+        'none';
+    
+    // make the catClosed appear
+    catOpen.style.display =
+        'block';
+    
+}
+
+function openTheCatsEyes(){
+    catOpen.style.display =
+        'block';
+    catClosed.style.display =
+        'none';
+}
