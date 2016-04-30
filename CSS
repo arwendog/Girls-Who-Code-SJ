@@ -1,13 +1,14 @@
 div{
     attribute: value;
     margin: 150%, 20px, 13pt;
-    padding:
+    padding: 20px
 }
 
 p{
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: black;
   font-size: 18pt;
+  
 }
 
 body{
