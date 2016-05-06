@@ -1,19 +1,41 @@
 div{
-    attribute: value;
-    margin: 150%, 20px, 13pt;
-    padding: 20px
+  attribute: value;
+  margin:150%, 20px, 13pt;
+  padding:20px;
 }
 
 p{
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: black;
-  font-size: 18pt;
-  
+  font-size: 34pt;
 }
 
 body{
-background: #ffd700;
+  background: #ffd700;
 }
+
+.menu {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: black;
+  font-size: 28px;
+ }
+ 
+#Home {
+  padding-right: 10%;
+  padding-left: 10%;
+  background-color: #ffd700;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
