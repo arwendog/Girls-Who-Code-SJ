@@ -4,6 +4,12 @@ div{
   padding:20px;
 }
 
+header{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: black;
+  font-size: 34pt;
+}
+
 p{
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: black;
@@ -29,8 +35,20 @@ body{
   #Home:hover{
   padding-right: 10%; 
   padding-left: 10%; 
-  background-color: #48D1CC;
+  background-color: #ffffff;
+}
 
+#AboutMe {
+  padding-right:10%;
+  padding-left: 10%;
+  background-color: #ffd700;
+}
+
+#AboutMe:hover{
+  padding-right:10%;
+  padding-left:10%;
+  background-color:#ffffff;
+}
  
  
  
