@@ -32,7 +32,7 @@ body{
   background-color: #ffd700;
  }
  
-  #Home:hover{
+#Home:hover{
   padding-right: 10%; 
   padding-left: 10%; 
   background-color: #ffffff;
