@@ -27,26 +27,26 @@ body{
  }
  
 #Home {
-  padding-right: 10%;
-  padding-left: 10%;
+  padding-right: 20%;
+  padding-left: 20%;
   background-color: #ffd700;
  }
  
 #Home:hover{
-  padding-right: 10%; 
-  padding-left: 10%; 
+  padding-right: 20%; 
+  padding-left: 20%; 
   background-color: #ffffff;
 }
 
 #AboutMe {
-  padding-right: 10%;
-  padding-left: 10%;
+  padding-right: 20%;
+  padding-left: 20%;
   background-color: #ffd700;
 }
 
 #AboutMe:hover{
-  padding-right: 10%;
-  padding-left: 10%;
+  padding-right: 20%;
+  padding-left: 20%;
   background-color: #ffffff;
 }
  
